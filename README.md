@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Matheus Henrique Monteiro👋
 
 
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-monteiro2803 )
 
 
@@ -16,6 +17,7 @@
       <img aling="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
+
 
 Apaixonado por tecnologia, buscando iniciar minha jornada em programação.
 
